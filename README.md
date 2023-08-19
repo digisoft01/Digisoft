@@ -1,3 +1,3 @@
 # Digisoft
 
-THis my First readme file.
+This is my First readme file.
